@@ -2,11 +2,12 @@
 
 👋 Hi! I'm **yZhang**, a developer passionate about multimedia tech and open-source collaboration.
 
-- 🌟 **Currently Working On**: MPEG-AIPCC, C++ Coding...
-- 🌟 **Learning**: Everything in the world (literally!).
-- 🌟 **Looking to Collaborate**: AI-based projects & multimedia frameworks.
-- 🌟 **Ask Me About**: AI-PCC, python, pytorch, minkowskiEngine...
-- 💬 **Fun Fact**: The earth is round (but code can be flat 😉).
+- 🏰 **Currently Working On**: MPEG-AIPCC, C++ Coding...
+- 🌎 **Learning**: Everything in the world (literally!).
+- 👟 **Looking to Collaborate**: AI-based projects & multimedia frameworks.
+- ✒️ **Ask Me About**: AI-PCC, python, pytorch, minkowskiEngine...
+- 🙋 **I will publish the knowledge and experiences that truly belong to me on [this page](https://anshi0t0yizhang.github.io/)
+- 💫 **Fun Fact**: The earth is round (but code can be flat 😉).
 
 ---
 ### **Tech Stack**  
