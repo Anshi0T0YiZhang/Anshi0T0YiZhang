@@ -1,6 +1,6 @@
 # Better for yZhang!!!
 
-👋 Hi! I'm **yZhang**, a developer passionate about multimedia tech and open-source collaboration.
+👋 Hi! I'm **yZhang**, a developer passionate about multimedia tech and open-source collaboration. All knowledge and insights were recorded during the postgraduate period and beyond.
 
 - 🏰 **Currently Working On**: MPEG-AIPCC, C++ Coding...
 - 🌎 **Learning**: Everything in the world (literally!).
