@@ -6,7 +6,7 @@
 - 🌎 **Learning**: Everything in the world (literally!).
 - 👟 **Looking to Collaborate**: AI-based projects & multimedia frameworks.
 - ✒️ **Ask Me About**: AI-PCC, python, pytorch, minkowskiEngine...
-- 🙋 **I will publish the knowledge and experiences that truly belong to me on [this page](https://anshi0t0yizhang.github.io/)
+- 🙋 **Kownledge**: I will publish the knowledge and experiences that truly belong to me on [this page](https://anshi0t0yizhang.github.io/)
 - 💫 **Fun Fact**: The earth is round (but code can be flat 😉).
 
 ---
