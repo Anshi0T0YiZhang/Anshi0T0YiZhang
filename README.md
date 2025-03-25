@@ -1,6 +1,6 @@
-# Better for Winter!!! ❄️
+# Better for yZhang!!!
 
-👋 Hi! I'm **Winter**, a developer passionate about multimedia tech and open-source collaboration.
+👋 Hi! I'm **yZhang**, a developer passionate about multimedia tech and open-source collaboration.
 
 - 🌟 **Currently Working On**: MPEG-ARF, H.264/AVC, WebRTC...
 - 🌟 **Learning**: Everything in the world (literally!).
