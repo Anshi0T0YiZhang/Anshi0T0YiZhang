@@ -14,6 +14,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)](https://isocpp.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)](https://pytorch.org/)
+[![MinkowskiEngine](https://nvidia.github.io/MinkowskiEngine/overview.html)](https://nvidia.github.io/MinkowskiEngine)
 
 ---
 ### **GitHub Stats**  
